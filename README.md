@@ -11,7 +11,7 @@
 ![pyton-servers](Images/pyton-servers.png)
 
 ### Скриншот балансировки
-![balance](Images/balance.png)
+![balance](Images/balance.PNG)
 
 ## Задание 2
 
