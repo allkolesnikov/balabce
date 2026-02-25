@@ -15,5 +15,8 @@
 
 ## Задание 2
 
-### Скриншот работы скрипта
-![copy](Images/Copy.png)
+### Скриншот с доменом 
+![domen](Images/domen.png)
+
+### Скриншот без домена
+![no_domen](Images/no_domen.png)
