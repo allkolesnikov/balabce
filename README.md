@@ -13,6 +13,9 @@
 ### Скриншот балансировки
 ![balance](Images/balance.PNG)
 
+### Файл конфигурации HAproxy
+[Файл конфигурации HAproxy](cfg_files/1_haproxy.cfg)
+
 ## Задание 2
 
 ### Скриншот с доменом 
@@ -20,3 +23,6 @@
 
 ### Скриншот без домена
 ![no_domen](Images/no_domen.png)
+
+### Файл конфигурации HAproxy
+[Файл конфигурации HAproxy](cfg_files/2_haproxy.cfg)
